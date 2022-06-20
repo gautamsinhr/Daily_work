@@ -1,5 +1,3 @@
-# # basically image number find wich place
-
 # from cv2 import imshow
 # import numpy   as np
 # import cv2 as cv
